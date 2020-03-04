@@ -1,0 +1,10 @@
+<mat-card>
+  <p>Image Carousel</p>
+  <button mat-fab class="prev" matTooltip="Previous" (click)="prevImage()">
+    <mat-icon>navigate_before</mat-icon>
+  </button>
+  <button mat-fab class="next" matTooltip="Next" (click)="nextImage()">
+    <mat-icon>navigate_next</mat-icon>
+  </button>
+  <img mat-card-image class="image-container slide-image" style="height: 88vh" src="../assets/img1.jpg">
+</mat-card>
