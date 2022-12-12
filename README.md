@@ -1,4 +1,5 @@
 # ImageCarousel
+![Screenshot (38)](https://user-images.githubusercontent.com/57829501/207160138-64b1a585-0eba-4e92-b300-2049efd756d8.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
 
